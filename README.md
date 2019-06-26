@@ -1,2 +1,2 @@
-# reality-en
-English wiki to reflect our current reality.
+# Sureality
+English link:../../wiki[Wiki] to reflect our current reality.
